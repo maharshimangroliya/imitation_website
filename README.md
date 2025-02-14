@@ -30,6 +30,15 @@ Javascript, HTML, CSS, Web Design and Development.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/maharshimangroliya/university_website/blob/main/Screenshots/aboutus%20page.png)
+![home page](https://github.com/maharshimangroliya/imitation_website/blob/main/screenshort/Home_page.png)
 
-![App Screenshot](https://github.com/maharshimangroliya/university_website/blob/main/Screenshots/campus%20page.png)
+![support_page](https://github.com/maharshimangroliya/imitation_website/blob/main/screenshort/Support_page.png)
+![product_page](https://github.com/maharshimangroliya/imitation_website/blob/main/screenshort/product_page.png)
+
+![product2 page](https://github.com/maharshimangroliya/imitation_website/blob/main/screenshort/product2_page.png)
+![featured product_page](https://github.com/maharshimangroliya/imitation_website/blob/main/screenshort/Featured%20Products_page.png)
+![featured product2 page](https://github.com/maharshimangroliya/imitation_website/blob/main/screenshort/Featured%20Products2-page.png)
+![clients_page](https://github.com/maharshimangroliya/imitation_website/blob/main/screenshort/clients_page.png)
+
+![blog_page](https://github.com/maharshimangroliya/imitation_website/blob/main/screenshort/blog_page.png)
+![footer_page](https://github.com/maharshimangroliya/imitation_website/blob/main/screenshort/footer_page.png)
