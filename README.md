@@ -18,16 +18,6 @@ Shreeji Imitation is a designer jewellery brand specializing in traditional and 
 ## 🛠 Skills
 Javascript, HTML, CSS, Web Design and Development.
 
-
-
-## Other Common Github Profile Sections
-
-🧠 I'm currently learning an exploring computer science different subjects like web development and programing language.
-
-👯‍♀️ I'm looking to collaborate  on any web development.
-
-- LinkedIn - https://www.linkedin.com/in/maharshi-mangroliya-966204347/
-
 ## Screenshots
 
 ![home page](https://github.com/maharshimangroliya/imitation_website/blob/main/screenshort/Home_page.png)
@@ -42,3 +32,11 @@ Javascript, HTML, CSS, Web Design and Development.
 
 ![blog_page](https://github.com/maharshimangroliya/imitation_website/blob/main/screenshort/blog_page.png)
 ![footer_page](https://github.com/maharshimangroliya/imitation_website/blob/main/screenshort/footer_page.png)
+
+## Other Common Github Profile Sections
+
+🧠 I'm currently learning an exploring computer science different subjects like web development and programing language.
+
+👯‍♀️ I'm looking to collaborate  on any web development.
+
+- LinkedIn - https://www.linkedin.com/in/maharshi-mangroliya-966204347/
